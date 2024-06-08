@@ -8,4 +8,4 @@ Jekyll Now makes it easier to create your Jekyll blog, by eliminating a lot of t
 
 Details here https://github.com/barryclark/jekyll-now
 
-This blog will be a record of interesting useless things I've wanted to do or have done myself.
+This blog is a record of interesting useless things I've wanted to do or have done myself.
