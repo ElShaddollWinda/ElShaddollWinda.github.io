@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+学生。懂得一些基本的中文，英语，越南语和日语，以及一些感兴趣的领域的入门知识。
 
-### More Information
+学生。中国語、英語、ベトナム語、日本語と、興味のある分野の初心者。
 
-A place to include any other types of information that you'd like to include about yourself.
+A student. New to Chinese, English, Vietnamese and Japanese, as well as some areas of own interest.
 
-### Contact me
+请在issue或pull requests留下您的意见。
 
-[email@domain.com](mailto:email@domain.com)
+ご意見はissue或いはpull requestsで。
+
+Please leave your comments in issue or pull requests.
